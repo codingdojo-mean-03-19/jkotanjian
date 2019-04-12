@@ -5,6 +5,8 @@ myString = "Bee stinger";
 // Why is there a problem with this? What can I do to fix this? For a value of 9, add a variable for a type "number".
 var myNumber: number;
 myNumber = 9;
+//or change 9 to be a string.
+myString = "9"
 
 
 //2. Setting the types for function parameters
